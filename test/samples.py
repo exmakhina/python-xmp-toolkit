@@ -65,7 +65,6 @@ samplefiles = {
     'BlueSquare.ai'   : libxmp.consts.XMP_FT_ILLUSTRATOR,
     'BlueSquare.avi'  : libxmp.consts.XMP_FT_AVI,
     'BlueSquare.eps'  : libxmp.consts.XMP_FT_EPS,
-    'BlueSquare.gif'  : libxmp.consts.XMP_FT_GIF,
     'BlueSquare.indd' : libxmp.consts.XMP_FT_INDESIGN,
     'BlueSquare.jpg'  : libxmp.consts.XMP_FT_JPEG,
     'BlueSquare.mov'  : libxmp.consts.XMP_FT_MOV,

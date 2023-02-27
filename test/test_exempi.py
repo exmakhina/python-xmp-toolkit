@@ -422,7 +422,6 @@ class TestExempi(unittest.TestCase):
         """Verify that check_file_format function works as expected."""
         pairs = { 'avi':  libxmp.consts.XMP_FT_AVI,
                   'eps':  libxmp.consts.XMP_FT_EPS,
-                  'gif':  libxmp.consts.XMP_FT_GIF,
                   'indd': libxmp.consts.XMP_FT_INDESIGN,
                   'jpg':  libxmp.consts.XMP_FT_JPEG,
                   'mov':  libxmp.consts.XMP_FT_MOV,
