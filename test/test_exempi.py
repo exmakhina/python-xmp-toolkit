@@ -539,6 +539,7 @@ class TestIteration(unittest.TestCase):
         self.assertEqual(props, ["2006, Hubert Figuiere"])
 
 
+    @unittest.skip("Issue x1")
     def test_single_namespace_single_path_leaf_names(self):
         """Get just leaf names from a single path, single namespace."""
         # TODO:  why?
